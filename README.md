@@ -1,6 +1,7 @@
-# Blog App using MERN Stack
+#🌊 Inkwave
 
-Welcome to the Blog App repository! This application is built using the MERN (MongoDB, Express, React, Node.js) stack and comes with various functionalities to manage and share your blogs.
+A modern full-stack blogging platform built with the MERN Stack (MongoDB, Express, React, Node.js).
+Create. Express. Inspire.
 
 
 ## Functionalities
