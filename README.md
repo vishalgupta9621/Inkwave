@@ -1,4 +1,4 @@
-##🌊 **Inkwave**
+🌊 **Inkwave**
 
 A modern full-stack blogging platform built with the MERN Stack (MongoDB, Express, React, Node.js).
 Create. Express. Inspire.
